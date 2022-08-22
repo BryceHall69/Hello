@@ -8,6 +8,7 @@ class retard {
     return true;
   }
 }
+
 $moron = new retard();
 $moron->set_name("N");
 
