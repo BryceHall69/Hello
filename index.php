@@ -8,7 +8,7 @@ class retard {
     return true;
   }
 }
-$moron = new Retard();
+$moron = new retard();
 $moron->set_name("N");
 
 if($moron->is_stupid()){
